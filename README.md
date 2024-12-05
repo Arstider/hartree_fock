@@ -5,9 +5,9 @@
 >	Takes a list of matrices and arranges them in a block diagonal form
 
 $$
-\left(\begin{list}
+\left(\begin{array}
 A && B && C && D
-\end{list}\right)
+\end{array}\right)
 \left(\begin{array}
 A && 0 && 0 && 0 \\
 0 && B && 0 && 0\\
