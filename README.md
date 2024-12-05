@@ -5,10 +5,10 @@
 >	Takes a list of matrices and arranges them in a block diagonal form
 
 $$
-\left(\begin{array}
+\left(\begin{array}{cc}
 A && B && C && D
-\end{array}\right)
-\left(\begin{array}
+\end{array}\right)=
+\left(\begin{array}{cc}
 A && 0 && 0 && 0 \\
 0 && B && 0 && 0\\
 0 && 0 && C && 0\\
