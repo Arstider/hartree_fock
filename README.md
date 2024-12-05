@@ -19,4 +19,4 @@ $$
 > where A, B, C, D---- also are matrices
 
 ## dimer.py:
-> Given a list of dimer structures, it will provide the energy for those dimers
+> Given a list of dimer structures, it will provide the energy for those dimers using HF
