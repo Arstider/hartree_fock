@@ -1,5 +1,5 @@
 # hartree_fock
->My attempt on coding Hartree Fock method
+> My attempt on coding Hartree Fock method
 
 ## Block diagonalize:
 >	Takes a list of matrices and arranges them in a block diagonal form
@@ -18,3 +18,5 @@ $$
 
 > where A, B, C, D---- also are matrices
 
+## dimer.py:
+> Given a list of dimer structures, it will provide the energy for those dimers
