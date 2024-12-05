@@ -3,7 +3,8 @@
 
 ##Block diagonalize:
 >	Takes a list of matrices and arranges them in a block diagonal form
-  $$
+
+$$
   /begin{ARRAY}
 	A && 0 && 0 && 0 \\
 	0 && B && 0 && 0\\
