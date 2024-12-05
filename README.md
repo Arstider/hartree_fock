@@ -7,7 +7,7 @@
 $$
 \left(\begin{list}
 A && B && C && D
-\end{list}\right)=
+\end{list}\right)
 \left(\begin{array}
 A && 0 && 0 && 0 \\
 0 && B && 0 && 0\\
