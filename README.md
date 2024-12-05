@@ -4,12 +4,13 @@
 ##Block diagonalize:
 >	Takes a list of matrices and arranges them in a block diagonal form
   $$
-  /begin{MATRIX}[[A,0,0,0],
-		[0,B,0,0],
-		[0,0,C,0],
-			[0,0,0,D]]
-  /END{MATRIX}
+  /begin{ARRAY}
+	A && 0 && 0 && 0 \\
+	0 && B && 0 && 0\\
+	0 && 0 && C && 0\\
+	0 && 0 && 0 && D
+  /END{ARRAY}
  $$
 
->	where A, B, C, D---- also are matrices
+	where A, B, C, D---- also are matrices
 
