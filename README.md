@@ -16,5 +16,5 @@ A && 0 && 0 && 0 \\
 \end{array}\right)
 $$
 
-	where A, B, C, D---- also are matrices
+	>where A, B, C, D---- also are matrices
 
