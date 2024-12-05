@@ -11,7 +11,7 @@ $$
 	0 && 0 && C && 0\\
 	0 && 0 && 0 && D
   \end{array}
- $
+ $$
 
 	where A, B, C, D---- also are matrices
 
