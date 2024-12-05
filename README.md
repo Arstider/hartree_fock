@@ -1,7 +1,7 @@
 # hartree_fock
-My attempt on coding Hartree Fock method
+>My attempt on coding Hartree Fock method
 
-Block diagonalize:
+##Block diagonalize:
 	Takes a list of matrices and arranges them in a block diagonal form
 	[A,B,C,D]=[[A,0,0,0],
 			[0,B,0,0],
