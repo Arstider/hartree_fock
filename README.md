@@ -5,12 +5,12 @@
 >	Takes a list of matrices and arranges them in a block diagonal form
 
 $$
-  /begin{ARRAY}
+\begin{ARRAY}
 	A && 0 && 0 && 0 \\
 	0 && B && 0 && 0\\
 	0 && 0 && C && 0\\
 	0 && 0 && 0 && D
-  /END{ARRAY}
+  \END{ARRAY}
  $$
 
 	where A, B, C, D---- also are matrices
